@@ -31,7 +31,7 @@ La aplicación permite a los usuarios:
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/tu-usuario/amigo-secreto.git
+   git clone https://github.com/MacarenaQuijadaG/AmigoSecreto.git
 
 2. Abre el archivo index.html en tu navegador y... ¡A jugar! 🎉
 
