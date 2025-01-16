@@ -1,32 +1,38 @@
-# Proyecto Amigo Secreto
+# 🎉 Proyecto Amigo Secreto 🎉
 
-Este proyecto es una aplicación web para realizar sorteos de "Amigo Secreto", donde los usuarios pueden ingresar los nombres de sus amigos y realizar un sorteo al azar para asignar los compañeros de manera secreta.
+Este es un proyecto de una aplicación web para realizar sorteos de **"Amigo Secreto"**. Los usuarios pueden ingresar los nombres de sus amigos y hacer el sorteo de manera divertida y secreta. 🤫
 
-## Descripción
+## 📸 Visuales
+
+![Captura de pantalla](https://github.com/user-attachments/assets/e176a8b9-0351-4e54-9b38-7c1c95dd5352)
+
+## 🚀 Descripción
 
 La aplicación permite a los usuarios:
-- Añadir amigos a la lista.
-- Realizar un sorteo para asignar un "Amigo Secreto".
-- Visualizar los resultados del sorteo con el nombre de los amigos asignados.
+- Añadir amigos a la lista de forma sencilla. ✍️
+- Realizar un sorteo para asignar un **Amigo Secreto** de forma aleatoria. 🎲
+- Visualizar los resultados del sorteo con el nombre de los amigos asignados. 🎁
 
-El diseño visual está preparado y enfocado en el uso de la lógica de programación en JavaScript.
+¡Todo esto, sin complicaciones! La lógica está basada en **JavaScript** para que solo te concentres en lo divertido: el sorteo. 😄
 
-## Características
+## ✨ Características
 
-- **Añadir amigos**: Los usuarios pueden agregar amigos escribiendo sus nombres en un campo de texto.
-- **Sortear**: Una vez que los amigos están añadidos, los usuarios pueden hacer clic en un botón para sortear al "Amigo Secreto".
-- **Resultado**: Los resultados del sorteo se muestran de manera clara en la interfaz.
+- **Añadir amigos**: Los usuarios pueden agregar amigos escribiendo sus nombres en un campo de texto. 🖊️
+- **Sortear**: Una vez que los amigos están listos, solo debes hacer clic en el botón para revelar el **Amigo Secreto**. 🕵️‍♂️
+- **Resultados**: Los resultados se muestran con estilo, y todo el mundo sabe quién le tocó. 🎉
 
-## Tecnologías utilizadas
+## 💻 Tecnologías utilizadas
 
-- **HTML**: Estructura básica de la página.
-- **CSS**: Estilo visual de la página.
-- **JavaScript**: Lógica para añadir amigos, realizar el sorteo y mostrar los resultados.
+- **HTML**: Para darle estructura a nuestra página. 🏗️
+- **CSS**: Para hacerla bonita y cómoda de usar. 🌈
+- **JavaScript**: La magia detrás del sorteo y la interactividad. ✨
 
-## Instrucciones de uso
+## 🏃‍♀️ Instrucciones de uso
 
 1. Clona este repositorio en tu máquina local:
    ```bash
    git clone https://github.com/tu-usuario/amigo-secreto.git
+   ´´´
+2. Abre el archivo index.html en tu navegador y... ¡A jugar! 🎉
 
-
+3. Agrega los nombres de tus amigos, haz clic en Añadir, y luego... ¡sortear! 🎲
