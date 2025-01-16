@@ -32,7 +32,7 @@ La aplicación permite a los usuarios:
 1. Clona este repositorio en tu máquina local:
    ```bash
    git clone https://github.com/tu-usuario/amigo-secreto.git
-   ´´´
+
 2. Abre el archivo index.html en tu navegador y... ¡A jugar! 🎉
 
 3. Agrega los nombres de tus amigos, haz clic en Añadir, y luego... ¡sortear! 🎲
