@@ -2,10 +2,6 @@
 
 Este es un proyecto de una aplicación web para realizar sorteos de **"Amigo Secreto"**. Los usuarios pueden ingresar los nombres de sus amigos y hacer el sorteo de manera divertida y secreta. 🤫
 
-## 📸 Visuales
-
-![Captura de pantalla](https://github.com/user-attachments/assets/e176a8b9-0351-4e54-9b38-7c1c95dd5352)
-
 ## 🚀 Descripción
 
 La aplicación permite a los usuarios:
