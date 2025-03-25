@@ -31,4 +31,4 @@ La aplicación permite a los usuarios:
 
 2. Abre el archivo index.html en tu navegador y... ¡A jugar! 🎉
 
-3. Agrega los nombres de tus amigos, haz clic en Añadir, y luego... ¡sortear! 🎲
+3. Agrega los nombres de tus amigos, haz clic en Añadir, y luego... ¡sortear! 🎲 
